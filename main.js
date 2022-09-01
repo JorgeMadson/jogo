@@ -17,12 +17,12 @@ var game = new Phaser.Game(config);
 
 function preload ()
 {
-
+    this.load.image('rua', 'assets/street.jpg');
 }
 
 function create ()
 {
-
+    this.add.image(400, 300, 'rua');
 }
 
 function update (time, delta)
