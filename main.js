@@ -1,4 +1,5 @@
 // Peguei daqui: https://github.com/photonstorm/phaser3-examples/blob/master/public/src/tilemap/collision/matter%20platformer%20modify%20map.js
+import Phaser from "phaser";
 var config = {
   type: Phaser.AUTO,
   width: 800,
