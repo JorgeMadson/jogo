@@ -32,24 +32,24 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#666666;stroke-width:0.264583"
+       style="fill:#666666;stroke-width:0"
        id="rect256"
        width="150"
        height="150"
        x="0"
        y="0" />
     <rect
-       style="fill:#00ffff;stroke-width:0.261003"
+       style="fill:#00ffff;stroke-width:0"
        id="rect310"
        width="150"
        height="90"
        x="0"
        y="0" />
     <rect
-       style="fill:#f9f9f9;stroke-width:0.260032"
+       style="fill:#f9f9f9;stroke-width:0"
        id="rect474"
        width="150"
-       height="6.9406037"
+       height="7"
        x="0"
        y="115" />
   </g>
